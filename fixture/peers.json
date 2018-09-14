@@ -29,9 +29,8 @@
     "bchtestnet.arihanc.com t53001 s53002"
   ],
   "BitcoinSegwitTestnet": [
-    "electrum.akinbo.org s t",
-    "testnet.hsmiths.com t53011 s53012",
-    "testnetnode.arihanc.com s t"
+    "testnet.qtornado.com t51001 s51002",
+    "testnet.hsmiths.com t53011 s53012"
   ],
   "BitcoinSegwitRegtest": [],
   "BitcoinNolnet": [],
@@ -44,8 +43,8 @@
     "electrum.ltc.xurious.com s t"
   ],
   "LitecoinTestnet": [
-    "electrum-ltc.bysh.me s t",
-    "electrum.ltc.xurious.com s t"
+    "electrum-ltc.bysh.me s51002 t51001",
+    "electrum.ltc.xurious.com s51002 t51001"
   ],
   "Viacoin": [
     "vialectrum.bitops.me s t",
